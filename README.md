@@ -3,8 +3,10 @@
 
 No âmbito da UFDC-0154 CSS orientada pelo formador Francisco com a duração de 25 horas, foi-nos pedido a elaboração de uma reflexão crítica construtiva sobre os conteúdos abordados e os conhecimentos adquiridos.
 
-###objetivos
-construir estilos em CSS (Cascade style sheet)
+###Objetivos
+Construir estilos em CSS (Cascade style sheet)
+
+###Desenvolvimento
 
  A materia abordade nesta UFCD ja tinha sido abordada numa UFCD anterior só que agora aprofunda mos um pouco mais do CSS vimos como poderiamos alterar a formataçao de uma de uma pagina em html vimos que podiamos fazer essas alteraçoes linha a linha ou uma forma muito mais simples e pratica.
  
